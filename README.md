@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Atharv Gupta
-- 👀 I’m interested in women
 - 🌱 I’m currently learning Python and exploring various other fields out there
 - 📫 How to reach me? @atharvvvg on instagram
 
